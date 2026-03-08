@@ -1,0 +1,2 @@
+-- Run this file first in Supabase SQL Editor
+-- See individual .sql files for details
